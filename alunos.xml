@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escola>
+  <cursos>
+    <curso nome="Curso 1">
+      <materia>Matematica</materia>
+      <materia>Português</materia>
+      <materia>História</materia>
+      <materia>Geografia</materia>
+      <materia>Ciências</materia>
+      <alunos>
+        <aluno>
+          <nome>Julio</nome>
+          <genero>Masculino</genero>
+          <notas>
+            <nota1>8.0</nota1>
+            <nota2>1.5</nota2>
+            <nota3>9.0</nota3>
+            <nota4>2.5</nota4>
+          </notas>
+        </aluno>
+         <aluno>
+          <nome>Aluno 2</nome>
+          <genero>Masculino</genero>
+          <notas>
+            <nota1>3.0</nota1>
+            <nota2>7.5</nota2>
+            <nota3>1.0</nota3>
+            <nota4>6.5</nota4>
+          </notas>
+        </aluno>
+         <aluno>
+          <nome>Aluno 3</nome>
+          <genero>Masculino</genero>
+          <notas>
+            <nota1>8.0</nota1>
+            <nota2>7.5</nota2>
+            <nota3>9.0</nota3>
+            <nota4>6.0</nota4>
+          </notas>
+        </aluno>
+         <aluno>
+          <nome>Aluno 4</nome>
+          <genero>Feminino</genero>
+          <notas>
+            <nota1>5.0</nota1>
+            <nota2>5.5</nota2>
+            <nota3>9.0</nota3>
+            <nota4>5.5</nota4>
+          </notas>
+        </aluno>
+         <aluno>
+          <nome>Aluno 5</nome>
+          <genero>Masculino</genero>
+          <notas>
+            <nota1>9.0</nota1>
+            <nota2>7.5</nota2>
+            <nota3>7.0</nota3>
+            <nota4>3.5</nota4>
+          </notas>
+        </aluno>
+         <aluno>
+          <nome>Aluno 6</nome>
+          <genero>Masculino</genero>
+          <notas>
+            <nota1>8.0</nota1>
+            <nota2>7.5</nota2>
+            <nota3>9.0</nota3>
+            <nota4>6.5</nota4>
+          </notas>
+        </aluno>
+         <aluno>
+          <nome>Aluno 7</nome>
+          <genero>Feminino</genero>
+          <notas>
+            <nota1>8.0</nota1>
+            <nota2>7.5</nota2>
+            <nota3>9.0</nota3>
+            <nota4>6.5</nota4>
+          </notas>
+        </aluno>
+         <aluno>
+          <nome>Aluno 8</nome>
+          <genero>Masculino</genero>
+          <notas>
+            <nota1>8.0</nota1>
+            <nota2>7.5</nota2>
+            <nota3>9.0</nota3>
+            <nota4>6.5</nota4>
+          </notas>
+        </aluno>
+         <aluno>
+          <nome>Aluno 9</nome>
+          <genero>Feminino</genero>
+          <notas>
+            <nota1>8.0</nota1>
+            <nota2>7.5</nota2>
+            <nota3>9.0</nota3>
+            <nota4>6.5</nota4>
+          </notas>
+        </aluno>
+         <aluno>
+          <nome>Aluno 10</nome>
+          <genero>Feminino</genero>
+          <notas>
+            <nota1>8.0</nota1>
+            <nota2>7.5</nota2>
+            <nota3>9.0</nota3>
+            <nota4>6.5</nota4>
+          </notas>
+        </aluno>
+         <aluno>
+          <nome>Aluno 11</nome>
+          <genero>Masculino</genero>
+          <notas>
+            <nota1>8.0</nota1>
+            <nota2>7.5</nota2>
+            <nota3>9.0</nota3>
+            <nota4>6.5</nota4>
+          </notas>
+        </aluno>
+         <aluno>
+          <nome>Aluno 12</nome>
+          <genero>Feminino</genero>
+          <notas>
+            <nota1>8.0</nota1>
+            <nota2>7.5</nota2>
+            <nota3>9.0</nota3>
+            <nota4>6.5</nota4>
+          </notas>
+        </aluno>
+         <aluno>
+          <nome>Aluno 13</nome>
+          <genero>Feminino</genero>
+          <notas>
+            <nota1>8.0</nota1>
+            <nota2>7.5</nota2>
+            <nota3>9.0</nota3>
+            <nota4>6.5</nota4>
+          </notas>
+        </aluno>
+         <aluno>
+          <nome>Aluno 14</nome>
+          <genero>Feminino</genero>
+          <notas>
+            <nota1>8.0</nota1>
+            <nota2>7.5</nota2>
+            <nota3>9.0</nota3>
+            <nota4>6.5</nota4>
+          </notas>
+        </aluno>
+         <aluno>
+          <nome>Aluno 15</nome>
+          <genero>Masculino</genero>
+          <notas>
+            <nota1>8.0</nota1>
+            <nota2>7.5</nota2>
+            <nota3>9.0</nota3>
+            <nota4>6.5</nota4>
+          </notas>
+        </aluno>
+
+
+      </alunos>
+    </curso>
+    <curso nome="Curso 2">
+      <materia>Matematica</materia>
+      <materia>Português</materia>
+      <materia>Biologia</materia>
+      <materia>Química</materia>
+      <materia>Física</materia>
+      <alunos>
+        <aluno>
+          <nome>Aluno 16</nome>
+          <genero>Feminino</genero>
+          <notas>
+            <nota1>5.5</nota1>
+            <nota2>8.0</nota2>
+            <nota3>7.0</nota3>
+            <nota4>4.0</nota4>
+          </notas>
+        </aluno>
+        <aluno>
+          <nome>Aluno 17</nome>
+          <genero>Masculino</genero>
+          <notas>
+            <nota1>5.5</nota1>
+            <nota2>6.0</nota2>
+            <nota3>7.0</nota3>
+            <nota4>6.0</nota4>
+          </notas>
+        </aluno>
+         <aluno>
+          <nome>Aluno 18</nome>
+          <genero>Feminino</genero>
+          <notas>
+            <nota1>5.5</nota1>
+            <nota2>2.0</nota2>
+            <nota3>7.0</nota3>
+            <nota4>1.0</nota4>
+          </notas>
+        </aluno>
+         <aluno>
+          <nome>Aluno 190</nome>
+          <genero>Masculino</genero>
+          <notas>
+            <nota1>5.5</nota1>
+            <nota2>5.0</nota2>
+            <nota3>7.0</nota3>
+            <nota4>9.0</nota4>
+          </notas>
+        </aluno>
+         <aluno>
+          <nome>Aluno 20</nome>
+          <genero>Feminino</genero>
+          <notas>
+            <nota1>5.5</nota1>
+            <nota2>3.0</nota2>
+            <nota3>7.0</nota3>
+            <nota4>4.0</nota4>
+          </notas>
+        </aluno>
+         <aluno>
+          <nome>Aluno 21</nome>
+          <genero>Masculino</genero>
+          <notas>
+            <nota1>5.5</nota1>
+            <nota2>6.0</nota2>
+            <nota3>7.0</nota3>
+            <nota4>6.0</nota4>
+          </notas>
+        </aluno>
+         <aluno>
+          <nome>Aluno 22</nome>
+          <genero>Feminino</genero>
+          <notas>
+            <nota1>5.5</nota1>
+            <nota2>6.0</nota2>
+            <nota3>7.0</nota3>
+            <nota4>6.0</nota4>
+          </notas>
+        </aluno>
+         <aluno>
+          <nome>Aluno 23</nome>
+          <genero>Masculino</genero>
+          <notas>
+            <nota1>5.5</nota1>
+            <nota2>6.0</nota2>
+            <nota3>7.0</nota3>
+            <nota4>6.0</nota4>
+          </notas>
+        </aluno>
+         <aluno>
+          <nome>Aluno 24</nome>
+          <genero>Masculino</genero>
+          <notas>
+            <nota1>5.5</nota1>
+            <nota2>6.0</nota2>
+            <nota3>7.0</nota3>
+            <nota4>6.0</nota4>
+          </notas>
+        </aluno>
+         <aluno>
+          <nome>Aluno 25</nome>
+          <genero>Feminino</genero>
+          <notas>
+            <nota1>5.5</nota1>
+            <nota2>6.0</nota2>
+            <nota3>7.0</nota3>
+            <nota4>6.0</nota4>
+          </notas>
+        </aluno>
+         <aluno>
+          <nome>Aluno 26</nome>
+          <genero>Masculino</genero>
+          <notas>
+            <nota1>5.5</nota1>
+            <nota2>6.0</nota2>
+            <nota3>7.0</nota3>
+            <nota4>6.0</nota4>
+          </notas>
+        </aluno>
+         <aluno>
+          <nome>Aluno 27</nome>
+          <genero>Feminino</genero>
+          <notas>
+            <nota1>5.5</nota1>
+            <nota2>6.0</nota2>
+            <nota3>7.0</nota3>
+            <nota4>6.0</nota4>
+          </notas>
+        </aluno>
+         <aluno>
+          <nome>Aluno 28</nome>
+          <genero>Masculino</genero>
+          <notas>
+            <nota1>5.5</nota1>
+            <nota2>9.0</nota2>
+            <nota3>7.0</nota3>
+            <nota4>2.0</nota4>
+          </notas>
+        </aluno>
+         <aluno>
+          <nome>Aluno 29</nome>
+          <genero>Feminino</genero>
+          <notas>
+            <nota1>5.5</nota1>
+            <nota2>9.0</nota2>
+            <nota3>7.0</nota3>
+            <nota4>8.0</nota4>
+          </notas>
+        </aluno>
+         <aluno>
+          <nome>Aluno 30</nome>
+          <genero>Feminino</genero>
+          <notas>
+            <nota1>5.5</nota1>
+            <nota2>1.0</nota2>
+            <nota3>7.0</nota3>
+            <nota4>2.0</nota4>
+          </notas>
+        </aluno>
+
+
+      </alunos>
+    </curso>
+  </cursos>
+</escola>
